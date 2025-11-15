@@ -11,7 +11,8 @@ import SwiftUI
 struct SwiftfulThinkingAdvanceLearning2App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PropertyWrapperBootcamp()
+//            ContentView()
         }
     }
 }
