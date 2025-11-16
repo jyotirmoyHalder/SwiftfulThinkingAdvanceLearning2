@@ -79,7 +79,6 @@ struct KeypathsBootcamp: View {
             
             array.sortByKeyPath(\.count)
             dataArray = array
-            
             //                let title = item.title
             //                let title2 = item[keyPath: \.title]
             //                screenTitle = title2
